@@ -1,0 +1,1 @@
+// Evite nomes genéricos e siglas
